@@ -1,0 +1,62 @@
+/* font style ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Poppins:wght@400;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+/* header  */
+header{
+  font-weight: 800;
+  margin-left: 70px;
+  margin-top: 40px;
+}
+/* main section ------------------------------------------------
+----------------------------------------------------------- */
+
+.camera-section{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+}
+   
+.influencer{
+            height: 270px;
+            width: 582px;
+            left: 138px;
+            top: 273px;
+            border-radius: 41px;
+
+}
+.first-tittle{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Cookie', cursive;
+font-family: 'Poppins', sans-serif;
+    
+}
+
+.camera{
+    
+    height: 414px;
+width: 440px;
+left: 835px;
+top: 211px;
+
+
+
+}
+.button{
+    text-decoration: none;
+    background-color: #e22e6d;
+    color:rgba(255,255,255,255);
+    font-weight: 600;
+    border-radius: 41px;
+    padding: 10px 24px;
+    font-size: 11px;
+    
+    
+}
+
+
