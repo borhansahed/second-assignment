@@ -132,14 +132,14 @@ font-family: 'Poppins', sans-serif;
 
 }
  /* LAST section  ------------------------------------------------------------------------------------------------------------------------------------- */
-  .gopro{
-     display: flex;
-     justify-content: center;
-     align-items: center;
- } 
+
  .last-section{
     display:flex;
-    margin: 50px 200px;
+    align-items: flex-start;
+    justify-content: center;
+    align-content: center;
+    
+    margin: 50px 250px;
     
    
     
@@ -147,12 +147,15 @@ font-family: 'Poppins', sans-serif;
   
  }
 .banner{
-    width: 50%;
+    width: 700px;
 
    
 }
 .banner img{
-    width: 400px;
+    
+width: 400px;
+height: 250px;
+
 }
 /* footer part -------------------------
 
